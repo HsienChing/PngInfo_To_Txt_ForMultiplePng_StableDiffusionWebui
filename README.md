@@ -112,8 +112,9 @@ While using Stable Diffusion Webui, I found it costs me a lot of time to copy, p
 # Suitable version of Stable Diffusion Webui
 v1.7.0 (tested on 06 Feb. 2024)
 
+# About Stable Diffusion Webui
 
-
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 <!-- GETTING STARTED -->
 <!--
