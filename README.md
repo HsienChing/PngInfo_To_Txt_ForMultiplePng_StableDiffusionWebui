@@ -110,6 +110,7 @@ In this very beginning version, "Positive prompt value" and "Negative prompt val
 1. Put the target png files in the folder "PNG files".
 1. Run all cells in the *.ipynb file. Or use the hot key `Shift + Enter` to run the program, since just only one cell in the program.
 1. A file named "png_info_input_01.txt" will be created in the target folder after the process. It can be used in "Prompts from file or textbox" of Stable Diffusion Webui.
+1. For keeping and managing the scenario txt file, users are suggested to rename the "png_info_input_01.txt" and move the file to another place.
 
 # Suitable version of Stable Diffusion Webui
 v1.7.0 (tested on 06 Feb. 2024)
