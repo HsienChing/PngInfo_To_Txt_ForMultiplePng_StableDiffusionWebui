@@ -89,6 +89,8 @@ Ref: https://github.com/othneildrew/Best-README-Template/edit/master/README.md
 
 While using Stable Diffusion Webui, I found it costs me a lot of time to copy, paste, and modified the png info into a single *.txt file. With this *.ipynb program, the png info in the png files are automatically gathered and formated into a single *.txt file for using in "Prompts from file or textbox" of txt2img in Stable Diffusion Webui.
 
+In this very beginning version, "Positive prompt value" and "Negative prompt value" are formatted and written to the "*.txt" file.
+
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
