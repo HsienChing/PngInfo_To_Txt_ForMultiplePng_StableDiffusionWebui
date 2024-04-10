@@ -141,6 +141,10 @@ To get a local copy up and running follow these simple example steps.
 |    1 | [PngInfo_To_Txt_ForMultiplePng_v01.ipynb](code/PngInfo_To_Txt_ForMultiplePng_v01.ipynb)            | 2024-02-06 |
 
 
+# Limitation
+Since the positive and negative prompts are enclosed by the symbol `"`, if you make a typo `"` in the positive and negative prompts, you will get wrong input prompts and ugly results.  
+For example: If you type (masterpiece: 1.2) as (masterpiece" 1.2).
+
 <!-- LICENSE -->
 # License
 
