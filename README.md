@@ -142,7 +142,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 # Limitation
-Since the positive and negative prompts are enclosed by the symbol `"`, if you make a typo `"` in the positive and negative prompts, you will get wrong input prompts and ugly results.  
+Since the positive and negative prompts are enclosed by the symbol `"`, if you make a typo `"` in the positive and negative prompts, you will get wrong prompts and unexpected results.  
 For example: If you type (masterpiece: 1.2) as (masterpiece" 1.2).
 
 <!-- LICENSE -->
